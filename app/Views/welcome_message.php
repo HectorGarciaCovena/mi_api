@@ -221,7 +221,7 @@
 
 		<h1>Clase Web - Api Rest <br> Héctor Miguel García Coveña</h1>
 
-		<h2>The small framework with powerful features</h2>
+		<h2>Este es un ejemplo de CRUD con API</h2>
 
 	</div>
 
